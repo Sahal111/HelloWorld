@@ -15,7 +15,7 @@
 Fakultas Teknik dan Ilmu Komputer
 **Universitas Nahdlatul Ulama Indonesia (UNUSIA)** · 2026
 
-[📄 Baca Laporan (PDF)](docs/Laporan-Praktik-Git-GitHub.pdf)
+[📄 Baca Laporan (PDF)](docs/LAPORAN PRAKTIK   PENGGUNAAN GIT DAN GITHUB DALAM PENGELOLAAN .pdf)
 
 </div>
 
@@ -74,16 +74,35 @@ HelloWorld/
 ## 🚀 Alur Praktikum
 
 ```mermaid
-flowchart LR
-    A[Instal & konfigurasi Git] --> B[Buat proyek HelloWorld]
-    B --> C[git init]
-    C --> D[git add & commit]
-    D --> E[Buat repo di GitHub]
-    E --> F[git remote add origin]
-    F --> G[git push]
-    G --> H[Ubah file & commit lagi]
-    H --> I[Branch fitur-warna]
-    I --> J[git merge ke main]
+flowchart TD
+    subgraph T1["🧰 TAHAP 1 · PERSIAPAN"]
+        direction TB
+        A["⚙️ Instal &<br/>konfigurasi Git"] --> B["📁 Buat proyek<br/>HelloWorld"]
+    end
+
+    subgraph T2["💻 TAHAP 2 · REPOSITORY LOKAL"]
+        direction TB
+        C["git init"] --> D["git add &<br/>git commit"]
+    end
+
+    subgraph T3["☁️ TAHAP 3 · GITHUB"]
+        direction TB
+        E["🌐 Buat repo<br/>di GitHub"] --> F["git remote add<br/>origin"] --> G["git push"]
+    end
+
+    subgraph T4["🔁 TAHAP 4 · PEMBARUAN"]
+        direction TB
+        H["✏️ Ubah file &<br/>commit lagi"] --> I["🌿 Branch<br/>fitur-warna"] --> J["🔀 git merge<br/>ke main"]
+    end
+
+    B --> C
+    D --> E
+    G --> H
+
+    style T1 fill:#e8f4fd,stroke:#1572B6,stroke-width:2px
+    style T2 fill:#fff4e5,stroke:#F05032,stroke-width:2px
+    style T3 fill:#eaf7ea,stroke:#2da44e,stroke-width:2px
+    style T4 fill:#f3e8ff,stroke:#8250df,stroke-width:2px
 ```
 
 ### 1️⃣ Persiapan Lingkungan

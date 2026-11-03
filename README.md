@@ -11,8 +11,8 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-Tahoe%2026.2-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-**Program Studi Teknik Informatika**
-Fakultas Teknik dan Ilmu Komputer
+**Program Studi Teknik Informatika**<br>
+Fakultas Teknik dan Ilmu Komputer<br>
 **Universitas Nahdlatul Ulama Indonesia (UNUSIA)** · 2026
 
 [📄 Baca Laporan (PDF)](docs/LAPORAN%20PRAKTIK%20PENGGUNAAN%20GIT%20DAN%20GITHUB%20DALAM%20PENGELOLAAN.pdf)

@@ -13,7 +13,7 @@
 
 **Program Studi Teknik Informatika**<br>
 Fakultas Teknik dan Ilmu Komputer<br>
-**Universitas Nahdlatul Ulama Indonesia (UNUSIA)** · 2026
+**Universitas Nahdlatul Ulama Indonesia (UNUSIA)** · <br> 2026
 
 [📄 Baca Laporan (PDF)](docs/Laporan_Praktik_Penggunaan_Git_Dan_Github.pdf)
 </div>

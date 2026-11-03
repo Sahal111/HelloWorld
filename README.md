@@ -15,7 +15,7 @@
 Fakultas Teknik dan Ilmu Komputer<br>
 **Universitas Nahdlatul Ulama Indonesia (UNUSIA)** · 2026
 
-[📄 Baca Laporan (PDF)](docs/LAPORAN%20PRAKTIK%20PENGGUNAAN%20GIT%20DAN%20GITHUB%20DALAM%20PENGELOLAAN.pdf)
+[📄 Baca Laporan (PDF)](docs/Laporan_Praktik_Penggunaan_Git_Dan_Github.pdf)
 </div>
 
 ---
